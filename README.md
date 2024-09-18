@@ -17,3 +17,6 @@ Denetimsiz öğrenme, sınıflandırma yerine daha çok veri içinde benzer grup
 Sonuç:
 Denetimli öğrenme (Logistic Regression) bu veri setinde daha iyi sonuçlar verir, çünkü model verilerin etiketlerini öğrenir ve bu etiketlere göre doğru tahminlerde bulunabilir.
 Denetimsiz öğrenme (k-Means), veri setini kümelere ayırabilir ancak incelemeleri doğru bir şekilde sınıflandırma konusunda yetersiz kalır. Bu yüzden, sınıflandırma problemlerinde denetimli öğrenme yöntemleri tercih edilir.
+
+
+https://www.kaggle.com/code/fatihaygun/pozitifnegatif/edit
